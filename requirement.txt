@@ -1,0 +1,15 @@
+flask
+tensorflow
+pandas 
+notebook
+numpy
+matplotlib
+seaborn
+scikit-learn
+plotly
+textblob
+scikit-plot
+scipy
+interpolation
+dask
+joblib
